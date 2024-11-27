@@ -1,5 +1,3 @@
-# brian63.github.io
-home page
 <!DOCTYPE html>
 <html>
   <head>
